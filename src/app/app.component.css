@@ -1,0 +1,9 @@
+.table{
+    border-style: double;
+    border-color: gray;
+}
+.pagination{
+    border-style: dashed;
+    border-color: black;
+    
+}
